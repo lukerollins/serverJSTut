@@ -1,0 +1,17 @@
+{
+  "name": "serverjstut",
+  "version": "1.0.0",
+  "description": "\"A simple server by Francisco Presencia (github.com/fraciscop) or serverjs.io\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "\"Luke A Rollins\"",
+  "license": "ISC",
+  "dependencies": {
+    "server": "^1.0.36"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
